@@ -10,3 +10,5 @@
 
 
 [Basic Notebook](https://github.com/dingdalei/Basic/wiki)
+
+{% gist 5555251 %}
