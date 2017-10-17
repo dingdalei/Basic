@@ -8,5 +8,6 @@
 * 学写 script 的确没设定 server 那么好玩﹐不过以我自己的感觉是﹕ 关键是会得“偷”﹐偷了会得改﹐改了会得变﹐变则通矣。
 * 不同的环境下，解决问题的方法有很多种，只要行的通，就是好方法！
 
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
 
 [Basic Notebook](https://github.com/dingdalei/Basic/wiki)
